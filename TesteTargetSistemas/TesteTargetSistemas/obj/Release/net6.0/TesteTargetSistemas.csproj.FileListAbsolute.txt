@@ -1,0 +1,16 @@
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\TesteTargetSistemas.exe
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\Exercicios\dados.json
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\TesteTargetSistemas.deps.json
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\TesteTargetSistemas.runtimeconfig.json
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\TesteTargetSistemas.dll
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\bin\Release\net6.0\TesteTargetSistemas.pdb
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.csproj.AssemblyReference.cache
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.AssemblyInfoInputs.cache
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.AssemblyInfo.cs
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.dll
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\refint\TesteTargetSistemas.dll
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.pdb
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\TesteTargetSistemas.genruntimeconfig.cache
+C:\Users\altai\OneDrive\Documentos\C#\Teste Gupy\TesteGupy\TesteGupy\obj\Release\net6.0\ref\TesteTargetSistemas.dll
